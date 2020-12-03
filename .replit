@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 f_to_c.py"
+run = "python3 windchill.py"
